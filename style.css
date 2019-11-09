@@ -1,0 +1,30 @@
+.font-family {
+'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.color {
+    color: #777; 
+}
+
+.background {
+   color: #777; 
+} 
+
+.width {
+    '960px'
+}
+
+.font-size {
+    '18px'
+/* Back ground color */
+ 
+.background {
+  color: '#ebebeb'; 
+}
+
+.article {
+    color: 'ebebeb';
+    background: '#777';
+}
+
+section: 495px
