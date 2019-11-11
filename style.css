@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
   color: "#777";
   background: "#777";
@@ -8,22 +8,21 @@
   margin: auto;
 }
 
-.header {
+header {
   background: #ebebeb;
   color: #777;
   margin: 10px;
   padding: 20px;
 }
 
-.nav {
+nav {
   background: #ebebeb;
   color: #777;
   margin: 10px;
   padding: 20px;
 }
 
-
-.section {
+section {
   background: #ebebeb;
   color: #777;
   margin: 10px;
@@ -31,17 +30,17 @@
   width: 495px;
 }
 
-.article {
+article {
   background: #ebebeb;
   color: #777;
 }
 
-.h1 {
+h1 {
   background: #ebebeb;
   color: #777;
 }
 
-.p {
+p {
   background: #ebebeb;
   color: #777;
 }
